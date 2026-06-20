@@ -1,0 +1,5 @@
+.env
+search.log
+__pycache__/
+*.pyc
+.directory
